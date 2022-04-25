@@ -1,6 +1,6 @@
 #  Explanation Of Common Printers Viewed In HAAS Lab:
 
-As mentioned in the introdustion, the 2021-2022 FSAE team used:
+As mentioned in the introduction, the 2021-2022 FSAE team used:
 * Ender 3 V2
 * Prusa I3 Mk3
 * Raise3D Pro 2 Plus
