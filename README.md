@@ -10,6 +10,8 @@ For the FSAE Team of 2021-2022, the printers that were common to see in the lab 
 ## Explanation Of Common Printers Viewed In HAAS Lab
 
 As mentioned in the introduction, the HAAS Lab used an Ender 3 V2, Prusa I3 MK3, and Raise3D Pro 2 Plus.
+
+### ENDER 3 V2
 ![Ender 3 V2](https://www.creality3dofficial.com/files/goods/ender-3-V2-01.jpg)
 
  
