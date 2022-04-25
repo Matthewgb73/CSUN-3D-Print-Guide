@@ -14,4 +14,8 @@ As mentioned in the introduction, the HAAS Lab used an Ender 3 V2, Prusa I3 MK3,
 ### ENDER 3 V2
 ![Ender 3 V2](https://www.creality3dofficial.com/files/goods/ender-3-V2-01.jpg)
 
+Specifications that you need to know: 
+* Printable Area: 235mm(Width) x 235mm(Length) x 250mm(Height)
+* 
+
  
