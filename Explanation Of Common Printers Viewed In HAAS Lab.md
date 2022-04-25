@@ -14,6 +14,7 @@ This list will grow if different printers are brought into the lab for the 2022-
   * Printable Area: 220x220x250mm
   * Printable Materials: PLA, PETG, TPU (dont do the last two unless you upgrade parts)
   * Recommended Slicer: [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
+  * Max Nozzle Temperature: ~230℃ (technically, can go higher if parts are upgraded. If not then do not go past 230-235℃ for long periods of time and never above 260℃ or else the PTFE tubing will start releasing harmful gasses.) 
   * Max Bed Temperature: 100℃ 
   * Filament Diameter: 1.75mm
   * 24V Power Supply 
