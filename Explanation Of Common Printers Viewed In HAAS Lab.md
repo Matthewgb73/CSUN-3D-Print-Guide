@@ -26,6 +26,19 @@ This list will grow if different printers are brought into the lab for the 2022-
  3. The machine settings window should show up. I usualy change the printer settings to X(Width) and Y(Depth) to 235mm. If you are just starting out, I recommend not changing anything. Click "Next" ![image](https://user-images.githubusercontent.com/80706125/165187107-2f906212-bfe3-412a-8241-4b6601b0e69d.png)
  4. You are done! Now STL files can be sliced and printed ![image](https://user-images.githubusercontent.com/80706125/165187184-7500f1ff-f588-46c9-b3ec-7618e5450c4f.png)
 
+### Suggestions To Improve Cura Experience
+ Install these plugins from the marketplace in Cura  
+ * Settings guide - will give in-depth details on Cura Print Settings. 
+ * SolidWorks Integration - will allow Cura to open Solidwork Files and SolidWorks can create a macro so all it takes is a button and your part file gets exported into Cura ready to be Sliced
+ * Calibration Shapes -  Has a variety of STL files to help with calibrating a 3D printer
+ * Custom Supports - Allows for custom supports to be placed where user desires
+ * Measure Tool - Allows for measuring parts of a model
+ * Startup Optimiser - Loads Cura Faster
+ * ThingiBrowser - allows access to the large library of STL files found on Thingiverse and MyMiniFactory
+ * TabAntiWarping - can add round tabs to help limit warping
+   *![image](https://user-images.githubusercontent.com/80706125/165188528-0098368d-9fa5-44ca-9d7c-3f7abd4fb2a5.png)
+
+
 
 
 
