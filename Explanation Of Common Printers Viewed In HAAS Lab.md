@@ -18,3 +18,9 @@ This list will grow if different printers are brought into the lab for the 2022-
   * Filament Diameter: 1.75mm
   * 24V Power Supply 
   * Needs A MicroSD card to print. 
+  
+### How to set up Cura for Ender 3 V2. 
+ 1. After installing the latest version of Cura, you will need to set up the printer profile. Click on "Add a non-networked printer" ![image](https://user-images.githubusercontent.com/80706125/165186315-186b4310-5606-48aa-a257-500b6c57b7e2.png)
+ 2. 
+
+    
