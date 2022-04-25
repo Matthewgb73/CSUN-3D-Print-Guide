@@ -10,3 +10,7 @@ This list will grow if different printers are brought into the lab for the 2022-
 ## Ender-3-V2
 ![Ender 3 V2](https://www.creality3dofficial.com/files/goods/ender-3-V2-01.jpg)
 
+Specifications (STOCK): 
+  * Printable Area: 235mm(L) x 235mm(W) x 250mm (H)
+  * Printable Materials: PLA, PETG, TPU (dont do the last two unless you upgrade hotend to all metal)
+  * 
