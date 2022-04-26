@@ -54,6 +54,13 @@ This list will grow if different printers are brought into the lab for the 2022-
   * 24V Power Supply 
   * Needs An SD card to print.
 
+ ### How to set up Cura for Prusa I3 Mk3
+   1. After installing the latest version of Cura, you will need to set up the printer profile. Click on "Add a non-networked printer" ![image](https://user-images.githubusercontent.com/80706125/165186315-186b4310-5606-48aa-a257-500b6c57b7e2.png)
+ 2. Scroll till you see the brand "Prusa3D". Choose the "Prusa I3 Mk3" ![image](https://user-images.githubusercontent.com/80706125/165216743-0ec150ef-17f6-452f-846a-2cfa0f9ab96c.png) 
+ 3. Click "Add" 
+ 4. You are done! Now STL files can be sliced and printed ![image](https://user-images.githubusercontent.com/80706125/165187184-7500f1ff-f588-46c9-b3ec-7618e5450c4f.png)
+
+ PrusaSlicer might be a better if you are more comfortable with it. I personally use cura and havent ran into a problem. 
 
 
 
