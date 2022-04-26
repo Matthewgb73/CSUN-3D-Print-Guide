@@ -48,7 +48,7 @@ This list will grow if different printers are brought into the lab for the 2022-
   * Layer Heights 0.05-0.035 mm 
   * Nozzlez: 0.4mm
   * Printable Materials: Wide range of thermoplastics, including PLA, PETG, ASA, ABS, PC (Polycarbonate), CPE, PVA/BVOH, PVB, HIPS, PP (Polypropylene), Flex, nGen, Nylon, Carbon filled, Woodfill and other filled materials.
-  * Recommended Slicer: [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) Other Option:[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
+  * Recommended Slicer: [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) Other Option: [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
   * Max Nozzle Temperature: 300℃
   * Max Bed Temperature: 120℃ 
   * Filament Diameter: 1.75mm
