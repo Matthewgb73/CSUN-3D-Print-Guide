@@ -37,6 +37,7 @@ This list will grow if different printers are brought into the lab for the 2022-
  * Startup Optimiser - Loads Cura Faster
  * ThingiBrowser - allows access to the large library of STL files found on Thingiverse and MyMiniFactory
  * TabAntiWarping - can add round tabs to help limit warping
+ 
    *![image](https://user-images.githubusercontent.com/80706125/165188528-0098368d-9fa5-44ca-9d7c-3f7abd4fb2a5.png)
    
  ## Prusa I3 Mk3
