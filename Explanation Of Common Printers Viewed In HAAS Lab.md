@@ -48,11 +48,11 @@ This list will grow if different printers are brought into the lab for the 2022-
   * Nozzlez: 0.4mm
   * Printable Materials: Wide range of thermoplastics, including PLA, PETG, ASA, ABS, PC (Polycarbonate), CPE, PVA/BVOH, PVB, HIPS, PP (Polypropylene), Flex, nGen, Nylon, Carbon filled, Woodfill and other filled materials.
   * Recommended Slicer: [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) Other Option:[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
-  * Max Nozzle Temperature: ~230℃ (technically, can go higher if parts are upgraded. If not then do not go past 230-235℃ for long periods of time and never above 260℃ or else the PTFE tubing will start releasing harmful gasses.) 
-  * Max Bed Temperature: 100℃ 
+  * Max Nozzle Temperature: 300℃
+  * Max Bed Temperature: 120℃ 
   * Filament Diameter: 1.75mm
   * 24V Power Supply 
-  * Needs A MicroSD card to print.
+  * Needs An SD card to print.
 
 
 
