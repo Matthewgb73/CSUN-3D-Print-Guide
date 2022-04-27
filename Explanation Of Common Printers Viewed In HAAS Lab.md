@@ -70,8 +70,10 @@ This list will grow if different printers are brought into the lab for the 2022-
   ### Specifications (STOCK): 
   * Printable Area: 305x305x605mm 
   * Layer Heights 0.01mm layer height
-  * Nozzlez: 0.4mm (left) and 0.8mm (right) (Do confirm which nozzle is being used for slicer settings)
-  * Printable Materials: Wide range of thermoplastics, including PLA, PETG, ASA, ABS, PC (Polycarbonate), CPE, PVA/BVOH, PVB, HIPS, PP (Polypropylene), Flex, nGen, Nylon, Carbon filled, Woodfill and other filled materials.
+  * Nozzlez: 0.4mm (left) and 0.8mm (right) (Do confirm which nozzle is being used for slicer settings) can use 0.2mm, 0.4mm, 0.6mm, 0.8mm, 1mm Nozzles
+  * Printable Materials: PLA/ ABS/ HIPS/ PC/ TPU/ TPE/ NYLON/ PETG/ PVA/ ASA/ PP/
+Glass Fiber Filled/ Carbon Fiber Enforced/ Metal Particles Filled
+/ Wood Filled
   * Slicer: [Ideamaker](https://www.raise3d.com/ideamaker/) (DOES NOT WORK WELL WITH CURA OR OTHER SLICERS!!!)
   * Max Nozzle Temperature: 300℃
   * Max Bed Temperature: 110℃ 
