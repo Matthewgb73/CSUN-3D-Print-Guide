@@ -62,6 +62,11 @@ This list will grow if different printers are brought into the lab for the 2022-
  4. You are done! Now STL files can be sliced and printed ![image](https://user-images.githubusercontent.com/80706125/165187184-7500f1ff-f588-46c9-b3ec-7618e5450c4f.png)
 
  PrusaSlicer might be a better if you are more comfortable with it. I personally use cura and havent ran into a problem. 
+ 
+ ## Raise3D Pro 2 Plus
+  ![image](https://user-images.githubusercontent.com/80706125/165590356-767e4384-61ee-4f77-b4f9-c9f4abaadbf0.png)
+  
+
 
 
 
