@@ -81,7 +81,7 @@ Glass Fiber Filled/ Carbon Fiber Enforced/ Metal Particles Filled
   * Needs a Usb to print.
 
 ### How to set up Slicer
- Ideamaker makes it really simple to set up the slicer for the printer. Just follow the link and it wil help you set up the slicer for the printer. ![Link to Pro2 Plus Instruction Manual](https://s1.raise3d.com/download_center/Pro2_Series_-_Quick_Start_Guide.pdf)
+ Ideamaker makes it really simple to set up the slicer for the printer. Just follow the link and it wil help you set up the slicer for the printer. [Link to Pro2 Plus Instruction Manual](https://s1.raise3d.com/download_center/Pro2_Series_-_Quick_Start_Guide.pdf)
   
   
 
