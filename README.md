@@ -7,10 +7,6 @@ This guide is a comprehensive guide to assist CSUN's Formula SAE Teams to be abl
 ## Introduction
 For the FSAE Team of 2021-2022, the printers that were common to see in the lab were the Ender 3 V2, Prusa I3 MK3, and Raise3D Pro 2 Plus. The team had four Ender 3 V2,  2 Prusa I3 Mk3 and 1 Raise3D Pro 2 Pluus. The Raise3D Pro 2 Plus is owned by the school; However, the other printers were bought and brought by students. From       observation, the Ender 3 V2 and the Raise3D were seen as machines that kept failing and too difficult to use. The Prusa Printers were viewed as the best since it was easy to use and brought good results. However, all the printers are equal in that they can print quality parts when they are calibrated and maintained well. As an owner of a Ender 3 Pro and an Ender 3 V2, I can say that a calibrated stock ender 3 pro can print at same quality as a prusa. With a few modifications, the ender 3s can be become machines capable of surpassing the prusa. The goal of this guide is to help each person who wants to make a 3D printed part to optimize and achieve good quality prints.
 
-## Notice: Change the branch to main branch when using a table of contents link because I dont know why github sends the link to another place
-
-![image](https://user-images.githubusercontent.com/80706125/165649689-b71471c0-31af-45ca-9319-3cc18d2ef415.png)
-
  
 ## TABLE OF CONTENTS
 1. [Explanation Of Common Printers Viewed In HAAS Lab](https://github.com/Matthewgb73/CSUN-FSAE-3D-Print-Guide-/blob/main/Explanation%20Of%20Common%20Printers%20Viewed%20In%20HAAS%20Lab.md)
