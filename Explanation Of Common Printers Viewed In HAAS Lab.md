@@ -56,7 +56,7 @@ This list will grow if different printers are brought into the lab for the 2022-
   * Needs An SD card to print.
 
  ### How to set up Cura for Prusa I3 Mk3
-   1. After installing the latest version of Cura, you will need to set up the printer profile. Click on "Add a non-networked printer" ![image](https://user-images.githubusercontent.com/80706125/165186315-186b4310-5606-48aa-a257-500b6c57b7e2.png)
+   1. After installing the latest version of Cura, you will need to set up the printer profile. Click on "Add a non-networked printer" ![image](https://github.com/Matthewgb73/CSUN-FSAE-3D-Print-Guide-/blob/main/Explanation%20Of%20Common%20Printers%20Viewed%20In%20HAAS%20Lab.md)
  2. Scroll till you see the brand "Prusa3D". Choose the "Prusa I3 Mk3" ![image](https://user-images.githubusercontent.com/80706125/165216743-0ec150ef-17f6-452f-846a-2cfa0f9ab96c.png) 
  3. Click "Add" 
  4. You are done! Now STL files can be sliced and printed ![image](https://user-images.githubusercontent.com/80706125/165187184-7500f1ff-f588-46c9-b3ec-7618e5450c4f.png)
