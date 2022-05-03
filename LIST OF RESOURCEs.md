@@ -17,6 +17,7 @@ This a full resource guide to everything I use for 3D printing
     * [AndrewEllis_PrintTuningGuide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
     * [TeachingTech_Tuning](https://teachingtechyt.github.io/index.html)
     * [Calibration By Phelbore](https://www.thingiverse.com/phelbore/collections/calibration)
+    * [Detailed Guide On Dealing with Curling](https://www.3dprintem.com/detailed-guide-on-3d-print-first-layer-curling/#:~:text=The%20hot%20filament%20that%20can,show%20itself%20after%20several%20layers)
  6. VIDEOS TO WATCH
     * [Bad Design on Ender 3v2](https://youtu.be/9kN6WPuLrKU)
     * [Setting Up Klipper wih Skr mini E3 V2](https://youtu.be/dZEL_ycAOLs)
