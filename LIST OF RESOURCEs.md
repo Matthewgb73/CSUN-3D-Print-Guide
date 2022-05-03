@@ -16,6 +16,7 @@ This a full resource guide to everything I use for 3D printing
 5. TUNING
     * [AndrewEllis_PrintTuningGuide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
     * [TeachingTech_Tuning](https://teachingtechyt.github.io/index.html)
+    * [Calibration By Phelbore](https://www.thingiverse.com/phelbore/collections/calibration)
  6. VIDEOS TO WATCH
     * [Bad Design on Ender 3v2](https://youtu.be/9kN6WPuLrKU)
     * [Setting Up Klipper wih Skr mini E3 V2](https://youtu.be/dZEL_ycAOLs)
