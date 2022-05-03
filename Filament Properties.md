@@ -4,7 +4,8 @@ The goal of this document is to explain the different types of filaments and the
 When a new brand is bought for printing, Tests should be done to determing the exact properties needed to print well.
 # PLA
 
-Polylactic Acid (PLA) is the easiest material to use when first starting off 3D printing. PLA is great for making detailed models and prototypes. 
+<details>
+<Summary>Polylactic Acid (PLA)</summary> is the easiest material to use when first starting off 3D printing. PLA is great for making detailed models and prototypes. 
 The filament does not warp which is great for making good, low cost models. 
 ## Important Information to Remember:
 1. Can be printed fast with low temperatures
@@ -24,4 +25,5 @@ Matterhacker PLA
 2. Best Bed Temp: (To Be Determined)
 3. Retraction: (To Be Determined)
 4. Best Print Speed: (To Be Determined)
+  </details>
     
