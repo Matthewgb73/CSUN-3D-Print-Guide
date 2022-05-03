@@ -27,3 +27,43 @@ Matterhacker PLA
 4. Best Print Speed: (To Be Determined)
   </details>
     
+# PETG
+<details>
+  <summary> Polyethylene Terephthalate Modified with Glycol) </summary>
+  PETG is the second material commonly used by beginners. It has a stronger material properties that make it great for making parts like holders, clamps and mechanical parts. The material can be hard to print on most printers like the creality ender 3s.
+  ## Important Information to Remember:
+1. Does not shrink or warp
+2. High Tenacity and Flexibility
+
+## Properties
+  1. Nozzle Temperature: 230 - 270℃ 
+  2. Bed Temperature: 70-90℃ 
+  3. Print Beds: Textured Pei
+  4. Dry box: Not Needed
+  5. Enclosure: Not Needed 
+## Brands (these values are determined based on printer and its settings)
+Matterhacker PETG
+1. Best Nozzle Temp: (To Be Determined) 
+2. Best Bed Temp: (To Be Determined)
+3. Retraction: (To Be Determined)
+4. Best Print Speed: (To Be Determined)
+  </details>
+
+# ASA
+<details>
+  <summary> Acrylic Styrene Acrylonitrile </summary>
+  ASA is improved material to the alternative, ABS. The material is UV light and temperature resistant. It can be disolved in acetone. The material should not be printed on a stock creality printer since its recommended bed temps is 260℃. Can be smoothened with acetone vapor
+
+## Properties
+  1. Nozzle Temperature: 260 - 265℃
+  2. Bed Temperature: 95 - 110℃
+  3. Print Beds: Textured Pei, use gluestick, Prusa has Satin Spring Steel Sheets which is good for ASA
+  4. Dry box: Not Needed
+  5. Enclosure: yes since material likes to warp 
+## Brands (these values are determined based on printer and its settings)
+(BRAND) ASA
+1. Best Nozzle Temp: (To Be Determined) 
+2. Best Bed Temp: (To Be Determined)
+3. Retraction: (To Be Determined)
+4. Best Print Speed: (To Be Determined)
+  </details>
