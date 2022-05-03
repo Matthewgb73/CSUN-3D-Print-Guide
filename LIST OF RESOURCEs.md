@@ -19,5 +19,9 @@ This a full resource guide to everything I use for 3D printing
  6. VIDEOS TO WATCH
     * [Bad Design on Ender 3v2](https://youtu.be/9kN6WPuLrKU)
     * [Setting Up Klipper wih Skr mini E3 V2](https://youtu.be/dZEL_ycAOLs)
+ 7. Printer Parts to Consider When Upgrading
+    * [LGX Lite Extruder](https://www.bondtech.se/product/lgx-lite-extruder-no-motor/)
+ 8. Cool Mods to do on printer:
+    * [BeltDrivenEnder3](https://github.com/kevinakasam/BeltDrivenEnder3)
     * 
   
