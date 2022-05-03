@@ -29,4 +29,11 @@ This a full resource guide to everything I use for 3D printing
     * [BeltDrivenEnder3](https://github.com/kevinakasam/BeltDrivenEnder3)
  9. AWESOME PRINTERS!!!
     * [Meltio Metal 3D Printer](https://meltio3d.com/?campaignid=14749959790&adgroupid=130368276649&adid=547830834691&gclid=Cj0KCQjwjN-SBhCkARIsACsrBz5z-hRWU4lovgoBKr_CH55x8sFH3Wjw6odmjvNdACiEbIHt5ZlJyLgaAhMXEALw_wcB)
+    * [Annex Engineering K3](https://youtu.be/rjXX1AkOi4Q)
+    * [5 axis Printing on Prusa](https://youtu.be/f09oCH1REAs)
+ 10. 3D Printing Discords
+    * [3D Printing](https://discord.gg/xYvsfeQGdZ)
+    * [Octoprint](https://discord.gg/zv55mBEXTy)
+    * [Voron Desing](https://discord.gg/voron)
+    * [Creality3D](https://discord.gg/aUGBhM8r5b)
   
