@@ -9,6 +9,7 @@ This a full resource guide to everything I use for 3D printing
     * [GrabCAD](https://grabcad.com/library/category/3d-printing)
  3. Octoprint
     * [Best Plugins for Octoprint](https://all3dp.com/2/must-have-octoprint-plugins/)
+    * [Putting Tape on 5V pin](https://community.octoprint.org/t/put-tape-on-the-5v-pin-why-and-how/13574)
 4. Klipper
     * [Macro Creation](https://klipper.discourse.group/t/macro-creation-tutorial/30/6)
     * [Klipper Documentation](https://www.klipper3d.org/)
