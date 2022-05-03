@@ -11,7 +11,7 @@ For the FSAE Team of 2021-2022, the printers that were common to see in the lab 
 ## TABLE OF CONTENTS
 1. [Explanation Of Common Printers Viewed In HAAS Lab](https://github.com/Matthewgb73/CSUN-FSAE-3D-Print-Guide-/blob/main/Explanation%20Of%20Common%20Printers%20Viewed%20In%20HAAS%20Lab.md)
 2. [How to Make Solidwork Parts Into Printable Files](https://github.com/Matthewgb73/CSUN-FSAE-3D-Print-Guide-/blob/main/How%20to%20Make%20Solidwork%20Parts%20Into%20Printable%20Files.md)
-3. Filament Properties
+3. [Filament Properties](https://github.com/Matthewgb73/CSUN-FSAE-3D-Print-Guide-/blob/main/Filament%20Properties.md)
 4. Resources for 3D printing
 
 
