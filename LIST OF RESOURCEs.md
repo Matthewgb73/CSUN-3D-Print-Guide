@@ -7,4 +7,9 @@ This a full resource guide to everything I use for 3D printing
     * [Cults3D](https://cults3d.com/en)
     * [Thangs](https://thangs.com/)
     * [GrabCAD](https://grabcad.com/library/category/3d-printing)
+ 3. Octoprint
+    * [Best Plugins for Octoprint](https://all3dp.com/2/must-have-octoprint-plugins/)
+ 4. TUNING
+    * [AndrewEllis_PrintTuningGuide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+    * [TeachingTech_Tuning](https://teachingtechyt.github.io/index.html)
   
