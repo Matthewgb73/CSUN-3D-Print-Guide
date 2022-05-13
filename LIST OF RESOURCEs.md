@@ -1,7 +1,10 @@
 # LIST OF RESOURCES
+Disclaimer: None of these are my personal resources but are places I reference when making decisions on 3D printing
+
 This a full resource guide to everything I use for 3D printing
 1. [Material Database By Prusa](https://help.prusa3d.com/materials)
-2. Places to get STL Files
+2. [What Printer Should You Get List](https://docs.google.com/spreadsheets/d/1QjCOsMmEbKsQXktG-MrRGlfk_lk5pMwYuc7GaMYguNg/edit?usp=sharing)
+3. Places to get STL Files
     * [Thingiverse](https://www.thingiverse.com/)
     * [MyMiniFactory](https://www.myminifactory.com/)
     * [Cults3D](https://cults3d.com/en)
