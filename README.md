@@ -12,8 +12,8 @@ Some quick information: When I started this guide, I intended it for formula stu
  
 ## TABLE OF CONTENTS
 1. [Explanation Of Common Printers Viewed In HAAS Lab](https://github.com/Matthewgb73/CSUN-3D-Print-Guide/blob/main/MAIN%20INFO/Explanation%20Of%20Common%20Printers%20Viewed%20In%20HAAS%20Lab.md)
-2. [How to Make Solidwork Parts Into Printable Files](https://github.com/Matthewgb73/CSUN-FSAE-3D-Print-Guide-/blob/main/How%20to%20Make%20Solidwork%20Parts%20Into%20Printable%20Files.md)
-3. [List of Resources](https://github.com/Matthewgb73/CSUN-FSAE-3D-Print-Guide-/blob/main/LIST%20OF%20RESOURCEs.md)
+2. [How to Make Solidwork Parts Into Printable Files](https://github.com/Matthewgb73/CSUN-3D-Print-Guide/blob/main/MAIN%20INFO/How%20to%20Make%20Solidwork%20Parts%20Into%20Printable%20Files.md)
+3. [List of Resources](https://github.com/Matthewgb73/CSUN-3D-Print-Guide/blob/main/MAIN%20INFO/LIST%20OF%20RESOURCEs.md)
 
 
 
