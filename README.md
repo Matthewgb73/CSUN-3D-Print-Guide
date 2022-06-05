@@ -1,11 +1,11 @@
-# CSUN FSAE 3DPrint Guide 2022-2023 V1
+# CSUN - 3DPrint Guide 2022-2023 V1
 
 ## Purpose Of Guide
 
-This guide is a comprehensive guide to assist CSUN's Formula SAE Teams to be able to set up their slicing software, optimize solidworks part files for 3d printing, and to understand the mistakes that occur while 3D printing. 
+This guide is a comprehensive guide to assist CSUN students to be able to set up their slicing software, optimize their solidworks part files for 3d printing, and to understand the mistakes that occur while 3D printing. 
 
 ## Introduction
-For the FSAE Team of 2021-2022, the printers that were common to see in the lab were the Ender 3 V2, Prusa I3 MK3, and Raise3D Pro 2 Plus. The team had four Ender 3 V2,  2 Prusa I3 Mk3 and 1 Raise3D Pro 2 Pluus. The Raise3D Pro 2 Plus is owned by the school; However, the other printers were bought and brought by students. From       observation, the Ender 3 V2 and the Raise3D were seen as machines that kept failing and too difficult to use. The Prusa Printers were viewed as the best since it was easy to use and brought good results. However, all the printers are equal in that they can print quality parts when they are calibrated and maintained well. As an owner of a Ender 3 Pro and an Ender 3 V2, I can say that a calibrated stock ender 3 pro can print at same quality as a prusa. With a few modifications, the ender 3s can be become machines capable of surpassing the prusa. The goal of this guide is to help each person who wants to make a 3D printed part to optimize and achieve good quality prints.
+3D printing is a fun hobby that allows students to grow their skills and allows for creation of useful and fun 3D prints. The myth about 3d printing is that it is a hard hobby to get into. The only difficult part that comes to 3D printing is when you are first starting out and you dont know why the machine is not printing the part properly. The purpose of why I am writing this guide is to show students that they can 3D print as well. I will make sure to answer as much questions as I can and provide all the knowledge I learned so students can become experts as well.
 
  
 ## TABLE OF CONTENTS
